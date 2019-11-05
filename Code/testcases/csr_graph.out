@@ -1,0 +1,17 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+====== Cuda Error Code 700 ======
+ an illegal memory access was encountered in CUDA ¼
+
+In file :parallel-work-coarse.cu
+On line: 296
+====== Cuda Error Code 700 ======
+ an illegal memory access was encountered in CUDA ¼
+
+In file :parallel-work-coarse.cu
+On line: 297
+====== Cuda Error Code 700 ======
+ an illegal memory access was encountered in CUDA ¼
+
+In file :parallel-work-coarse.cu
+On line: 298
